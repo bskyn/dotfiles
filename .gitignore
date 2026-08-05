@@ -6,6 +6,8 @@
 *.secrets
 *.pem
 *.key
+.npmrc
+**/hosts.yml
 
 # macOS and editor files
 .DS_Store
