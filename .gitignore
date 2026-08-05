@@ -1,0 +1,19 @@
+# Local secrets and machine-specific configuration
+.env
+.env.*
+*.local
+*.secret
+*.secrets
+*.pem
+*.key
+
+# macOS and editor files
+.DS_Store
+.idea/
+.vscode/*.log
+
+# Credential and application state directories
+credentials/
+secrets/
+auth.json
+token.json
